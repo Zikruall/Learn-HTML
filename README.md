@@ -1,2 +1,3 @@
 # Learn-HTML
-https://github.com/Zikruall/Learn-HTML
+
+The project page URL 'https://roadmap.sh/projects/single-page-cv'
